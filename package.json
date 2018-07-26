@@ -1,7 +1,7 @@
 {
   "name": "cryptohawk-front",
   "version": "0.1.0",
-  "description": "Front End for CryptoHawk(Quick overview of current crypto market with features to make better trade decisions) using next.js ",
+  "description": "Front End for CryptoHawk (Quick overview of current crypto market with features to make better trade decisions) using next.js ",
   "main": "index.js",
   "scripts": {
     "dev": "next",
